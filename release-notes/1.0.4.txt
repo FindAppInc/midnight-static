@@ -1,0 +1,13 @@
+## Features
+
+- Discounts for translators and students
+- Volume ramp
+- Recurring event support
+- Watch compability banner
+- New update detector
+
+## Bug Fixes
+
+- Alarms not being triggered
+- "Event Deleted" alarms
+- Date picker refreshes
